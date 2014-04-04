@@ -2,7 +2,6 @@
  * 
  */
 /**
- * @author wangpeng
  * 
  */
 package com;
