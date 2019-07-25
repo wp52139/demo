@@ -14,3 +14,6 @@ simple test page ,just for test
 - [oschina tool](http://tool.oschina.net/)
 - 
 
+## other
+- [三维动画制作软件blender](https://www.blendercn.org/)
+
