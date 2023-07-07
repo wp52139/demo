@@ -2,7 +2,8 @@ demo
 ====
 
 simple test page ,just for test
-
+## study
+- [runoob](https://www.runoob.com/)
 ## android
 - [androiddevtools](https://www.androiddevtools.cn/)
 - [androiddevtools 4 github](https://github.com/inferjay/AndroidDevTools/)
@@ -20,7 +21,7 @@ simple test page ,just for test
 
 - [format json](https://www.json.cn/)
 - [oschina tool](http://tool.oschina.net/)
-- 
+- [bing trans](https://cn.bing.com/translator/?h_text=msn_ctxt&setlang=zh-cn)
 
 ## other
 - [三维动画制作软件blender](https://www.blendercn.org/)
